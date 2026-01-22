@@ -4,3 +4,4 @@ Ad-soyad: Haifa faour
 Bölüm: Bilgisayar mühendisliği 
 Bu programı C++ dilinde ikinci dereceden denklemleri çözmek için yazdım. Öncelikle kullanıcıdan a, b ve c katsayılarını alıyorum. Daha sonra diskriminantı (Δ = b² − 4ac) hesaplıyorum. Diskriminantın değerine göre denklemin gerçek kökü olup olmadığını ve varsa köklerini ekrana yazdırıyorum.
 https://drive.google.com/file/d/13NP-VEymjjQqKaRE2uEEtL8EeXSFJEWu/view?usp=drivesdk
+https://drive.google.com/file/d/181D1RBAvbh24eyZshTeSoLvsyy2fL03V/view?usp=drivesdk
